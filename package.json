@@ -20,7 +20,7 @@
     "react-scripts": "3.2.0",
     "sweetalert2": "^9.13.1",
     "sweetalert2-react-content": "^3.0.1",
-    "xlsx": "^0.16.2"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "start": "react-scripts start",
